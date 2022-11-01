@@ -1,0 +1,38 @@
+.main {
+  .headerContainer {
+    margin-top: 50px;
+    text-align: center;
+  }
+
+  .bodyContainer {
+    font-size: 20px;
+    margin-top: 50px;
+    text-align: center;
+
+    .input-form-standard {
+      font-size: 24px;
+      width: 180px;
+      border: solid 1px #5da7db;
+      border-radius: 4px;
+      text-align: center;
+    }
+
+    .button-lg {
+      margin-top: 50px;
+      margin-bottom: 20px;
+      border: solid 1px #5da7db;
+      border-radius: 15px;
+      background: #5da7db;
+      font-size: 16px;
+      margin: 5px;
+      padding: 5px;
+      color: #ffff;
+    }
+  }
+
+  .footerContainer {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 12px;
+  }
+}
