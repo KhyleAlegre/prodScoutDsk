@@ -1,0 +1,9 @@
+[2022-11-02 22:41:36.995] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9004',
+  idleTime: '0'
+}

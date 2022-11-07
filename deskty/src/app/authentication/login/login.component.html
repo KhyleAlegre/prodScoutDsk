@@ -8,16 +8,31 @@
   </div>
 
   <div class="bodyContainer">
+    {{ connectCheck }}
     <h5>Log-In (Managed Profiles)</h5>
-    <label>Profile Id</label>
+    <label>Profile Id </label>
     <br />
-    <input type="text" class="input-form-standard" />
+    <input type="text" class="input-form-standard" [(ngModel)]="profileId" />
     <br />
-    <label>Profile Password</label>
+    <sup *ngIf="invalidId" style="font-size: 10px; color: red">
+      {{ profilePromt }}
+    </sup>
     <br />
-    <input type="password" class="input-form-standard" />
+    <label>Username </label>
     <br />
-    <button type="submit" class="button-lg">Send Scouts</button>
+    <input type="text" class="input-form-standard" [(ngModel)]="username" />
+    <br />
+    <sup *ngIf="invalidPassword" style="font-size: 10px; color: red">
+      {{ passwordPrompt }}
+    </sup>
+    <br />
+    <button type="submit" class="button-lg" (click)="login()">
+      Send Scouts
+    </button>
+    <br />
+    <sup *ngIf="logPrompt" style="font-size: 10px; color: red">
+      {{ logNotify }}
+    </sup>
   </div>
 
   <div class="footerContainer">
