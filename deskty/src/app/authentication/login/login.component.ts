@@ -12,6 +12,8 @@ import {
   AngularFireUploadTask,
 } from '@angular/fire/compat/storage';
 import { profileModels } from 'src/app/models/profile.model';
+import { ssModel } from 'src/app/models/screenshot.model';
+import { watchlistModel } from 'src/app/models/watchlist.model';
 
 @Component({
   selector: 'app-login',
@@ -33,6 +35,9 @@ export class LoginComponent implements OnInit {
   private logprofileCollection!: AngularFirestoreCollection<profileModels>;
   logprofiles!: Observable<profileModels[]>;
 
+  private watchlistCollection!: AngularFirestoreCollection<watchlistModel>;
+  wls!: Observable<watchlistModel[]>;
+
   profileId: any;
   username: any;
   invalidPassword: boolean = false;
@@ -52,16 +57,12 @@ export class LoginComponent implements OnInit {
   loggedUsername: any;
   nudgeRequest: boolean = false;
   ssRequest: boolean = false;
-  imagePathName: any;
-  imageRef: any;
-  imageBaseRef: any;
-  imageSub: any;
-  downloadUrl: any;
-  convertedUrl: any;
   galleryUrl: any;
   sessionUrl: any;
   galleryLogDate: any;
   convertBlob: any;
+  watchList!: watchlistModel[];
+  sessionTimeStamp: any;
 
   ngOnInit(): void {
     this.profileCollection = this.afs.collection('profiles');
@@ -74,6 +75,9 @@ export class LoginComponent implements OnInit {
       // Listen to Window Events
       this.ipcService.send('check', 'checking');
       this.getProfile();
+      this.checkNudge();
+      this.checkSS();
+      this.getWatchlist();
       // Gets Window Events
       this.ipcService.on('appLogs', (event: any, arg: string) => {
         this.appLogs = arg;
@@ -91,15 +95,54 @@ export class LoginComponent implements OnInit {
           userName: this.loggedUsername,
         });
 
+        // Comparet to watchlist
+        for (let i = 0; i < this.watchList.length; i++) {
+          if (this.appLogs.windowClass == this.watchList[i].applicationName) {
+            setTimeout(() => {
+              this.getScreenshot();
+
+              this.galleryLogDate = new Date();
+              this.afs.collection('gallery').add({
+                ssUrl: this.ssUrl,
+                profileId: this.loggedProfileId,
+                userName: this.loggedUsername,
+                logDate: this.galleryLogDate,
+              });
+
+              this.ipcService.send('warn', 'warning');
+            }, 500);
+            this.sessionTimeStamp = new Date();
+            this.afs.collection('sessions').add({
+              deviceType: 'Desktop',
+              sessionMode: 'Launched ' + this.appLogs.windowClass,
+              sessionStatus: true,
+              photoUrl: this.ssUrl,
+              sessiongLogDate: this.sessionTimeStamp,
+              displaySessionDate: this.sessionTimeStamp.toLocaleDateString(),
+              displaySessionTime:
+                this.sessionTimeStamp.toLocaleTimeString('en-US'),
+              profileId: this.loggedProfileId,
+              profileType: 'Regular',
+              violationLevel: 'Launched an application from the watchlist',
+              screenShotTrigger: '',
+              profileStatus: 'Active',
+              profilePassword: 'N/A',
+              username: this.loggedUsername,
+            });
+          }
+          return;
+        }
+
         this.cdRef.detectChanges();
       });
-    }, 60000);
+    }, 10000);
 
-    setInterval(() => {
-      this.getProfile();
-      this.checkNudge();
-      this.checkSS();
-    }, 5000);
+    // setInterval(() => {
+    //  this.getProfile();
+    //  this.checkNudge();
+    //  this.checkSS();
+    //   this.getWatchlist();
+    // }, 3000);
   }
 
   login() {
@@ -189,26 +232,14 @@ export class LoginComponent implements OnInit {
     if (this.ssRequest == true) {
       this.getScreenshot();
       console.log('ready to upload', this.ssUrl);
-      this.imagePathName = 'gallery' + Math.random();
-      this.imageRef = this.afsU.ref(this.imagePathName);
 
-      //this.imageBaseRef = this.afsU.upload(this.imagePathName, this.ssUrl);
-      this.imageRef.putString(this.ssUrl, 'base64', {
-        contentType: 'image/png',
+      this.galleryLogDate = new Date();
+      this.afs.collection('gallery').add({
+        ssUrl: this.ssUrl,
+        profileId: this.loggedProfileId,
+        userName: this.loggedUsername,
+        logDate: this.galleryLogDate,
       });
-      this.imageSub = this.imageBaseRef
-        .snapshotChanges()
-        .pipe(concatWith(this.imageRef.getDownloadURL()))
-        .subscribe((url: Observable<string>) => {
-          this.downloadUrl = url;
-          this.galleryUrl = this.downloadUrl;
-          this.galleryLogDate = new Date();
-          this.afs.collection('gallery').add({
-            ssUrl: this.galleryUrl,
-            profileId: this.loggedProfileId,
-            userName: this.loggedUsername,
-          });
-        });
     }
   }
 
@@ -220,5 +251,25 @@ export class LoginComponent implements OnInit {
       //console.log(this.ssUrl);
       this.cdRef.detectChanges();
     });
+  }
+
+  addToGallery() {
+    this.galleryLogDate = new Date();
+    this.afs.collection('gallery').add({
+      ssUrl: this.ssUrl,
+      profileId: this.loggedProfileId,
+      userName: this.loggedUsername,
+      logDate: this.galleryLogDate,
+    });
+  }
+
+  getWatchlist() {
+    this.watchlistCollection = this.afs.collection('watchlist', (ref) =>
+      ref.where('username', '==', this.loggedUsername)
+    );
+    this.wls = this.watchlistCollection.valueChanges();
+    this.wls.subscribe(
+      (data) => ((this.watchList = data), console.log(this.watchList))
+    );
   }
 }

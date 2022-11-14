@@ -1,4 +1,4 @@
-const { app, BrowserWindow, ipcMain, desktopCapturer, Menu, webContents, contextBridge, ipcRenderer, Notification } = require("electron");
+const { app, BrowserWindow, ipcMain, desktopCapturer, Menu, webContents, contextBridge, ipcRenderer, Notification, dialog, shell } = require("electron");
 const url = require("url");
 const path = require("path");
 const activeWindows = require('electron-active-window');
@@ -66,7 +66,12 @@ function showNotif() {
 log.transports.file.level = 'logs';
 log.transports.file.resolvePath = () => path.join(__dirname, 'logs/eventLog.log');
 
+// Sends Warning thru System Dialog
 
+ipcMain.on("warn", () => {
+  //dialog.showErrorBox('Ooops!', 'It seems this is not that the time to be launching this app, please focus on your activities and studies')
+  shell.openExternal('https://prodscout.vercel.app/#/blocked')
+})
 // Check running Windows
 ipcMain.on("check", () =>{
   activeWindows().getActiveWindow().then((result) => {
