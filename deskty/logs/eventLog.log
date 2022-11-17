@@ -3724,3 +3724,4053 @@
   windowPid: '16912',
   idleTime: '1'
 }
+[2022-11-10 04:40:47.043] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'New Tab - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '0'
+}
+[2022-11-10 04:41:46.180] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '0'
+}
+[2022-11-10 04:42:46.179] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '0'
+}
+[2022-11-10 04:43:47.052] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'New Tab - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '0'
+}
+[2022-11-10 04:47:20.414] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '42'
+}
+[2022-11-10 04:48:20.416] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '3'
+}
+[2022-11-10 04:49:20.414] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: "javascript - Firebase Storage: String does not match format 'base64': Invalid character found - Stack Overflow - Google Chrome",
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '5'
+}
+[2022-11-10 04:50:21.051] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3012',
+  idleTime: '0'
+}
+[2022-11-10 04:52:48.569] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'prodScout - Storage - Firebase console - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '0'
+}
+[2022-11-10 04:53:49.050] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3012',
+  idleTime: '0'
+}
+[2022-11-10 04:54:49.048] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: "javascript - Firebase Storage: String does not match format 'base64': Invalid character found - Stack Overflow - Google Chrome",
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '1'
+}
+[2022-11-10 04:55:49.046] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3012',
+  idleTime: '2'
+}
+[2022-11-10 04:58:05.486] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'prodScout - Storage - Firebase console - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '6'
+}
+[2022-11-10 04:59:06.045] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3012',
+  idleTime: '0'
+}
+[2022-11-10 05:01:17.709] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'prodScout - Storage - Firebase console - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '0'
+}
+[2022-11-10 05:02:18.052] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: "javascript - Firebase Storage: String does not match format 'base64': Invalid character found - Stack Overflow - Google Chrome",
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '2'
+}
+[2022-11-10 05:05:12.547] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '0'
+}
+[2022-11-10 05:07:46.675] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '1'
+}
+[2022-11-10 05:08:47.049] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'Shopee Seller Center - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '0'
+}
+[2022-11-10 05:09:47.095] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3012',
+  idleTime: '2'
+}
+[2022-11-10 05:12:24.593] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'prodScout - Storage - Firebase console - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '1'
+}
+[2022-11-10 05:13:24.606] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: "TypeError: Cannot read property 'byteLength' of undefined · Issue #2282 · aws/aws-sdk-js-v3 - Google Chrome",
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '0'
+}
+[2022-11-10 05:14:24.596] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'javascript - TypeError when uploading file to firebase storage node js - Stack Overflow - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '1'
+}
+[2022-11-10 05:15:25.073] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3012',
+  idleTime: '0'
+}
+[2022-11-10 05:17:18.930] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'How to terminate a .exe program with electron? - Stack Overflow - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '0'
+}
+[2022-11-10 05:18:18.929] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '2'
+}
+[2022-11-10 05:19:18.930] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: "javascript - Cannot read properties of undefined (reading 'indexOf') - Stack Overflow - Google Chrome",
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2768',
+  idleTime: '0'
+}
+[2022-11-10 05:20:19.054] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3012',
+  idleTime: '3'
+}
+[2022-11-10 05:21:19.055] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3012',
+  idleTime: '2'
+}
+[2022-11-10 05:22:19.049] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3012',
+  idleTime: '62'
+}
+[2022-11-10 05:23:19.056] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3012',
+  idleTime: '122'
+}
+[2022-11-10 05:24:19.040] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3012',
+  idleTime: '182'
+}
+[2022-11-10 05:25:19.058] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3012',
+  idleTime: '242'
+}
+[2022-11-10 05:26:19.051] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3012',
+  idleTime: '302'
+}
+[2022-11-10 05:27:19.055] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3012',
+  idleTime: '362'
+}
+[2022-11-10 05:28:19.069] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3012',
+  idleTime: '422'
+}
+[2022-11-10 05:29:19.050] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3012',
+  idleTime: '482'
+}
+[2022-11-10 05:30:19.046] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3012',
+  idleTime: '542'
+}
+[2022-11-13 22:32:31.899] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '2'
+}
+[2022-11-13 22:33:31.895] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'DevTools',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '2'
+}
+[2022-11-13 22:34:31.915] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 22:35:31.908] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'electron prevent an app from executing - Google Search - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 22:36:31.906] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'History - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 22:37:31.905] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'Electron get active window - Google Search - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 22:38:31.904] [info]  {
+  os: 'windows',
+  windowClass: 'EXCEL.EXE',
+  windowName: 'Microsoft Excel - Book1',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '10956',
+  idleTime: '1'
+}
+[2022-11-13 22:39:31.904] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 22:40:31.899] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'dialog | Electron - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 22:41:31.907] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 22:42:31.896] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 22:43:31.897] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 22:44:31.904] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 22:45:31.911] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 22:46:31.902] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 22:48:02.857] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '2972',
+  idleTime: '0'
+}
+[2022-11-13 22:48:12.896] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 22:48:22.886] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '2'
+}
+[2022-11-13 22:48:32.900] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 22:48:42.849] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 22:48:52.877] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 22:49:02.878] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 22:49:12.863] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 22:49:22.866] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 22:49:32.875] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 22:49:42.868] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 22:49:52.867] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 22:50:02.868] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 22:50:12.873] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 22:50:22.868] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'dashtools.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:21:41.173] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3524',
+  idleTime: '0'
+}
+[2022-11-13 23:21:51.177] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3524',
+  idleTime: '0'
+}
+[2022-11-13 23:22:01.182] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3524',
+  idleTime: '6'
+}
+[2022-11-13 23:24:00.102] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '10548',
+  idleTime: '0'
+}
+[2022-11-13 23:24:10.101] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '10548',
+  idleTime: '0'
+}
+[2022-11-13 23:24:20.099] [info]  {
+  os: 'windows',
+  windowClass: 'explorer.exe',
+  windowName: '',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '7332',
+  idleTime: '0'
+}
+[2022-11-13 23:24:30.100] [info]  {
+  os: 'windows',
+  windowClass: 'ApplicationFrameHost.exe',
+  windowName: 'Calculator',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14256',
+  idleTime: '0'
+}
+[2022-11-13 23:24:40.102] [info]  {
+  os: 'windows',
+  windowClass: 'ApplicationFrameHost.exe',
+  windowName: 'Calculator',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14256',
+  idleTime: '1'
+}
+[2022-11-13 23:24:50.098] [info]  {
+  os: 'windows',
+  windowClass: 'explorer.exe',
+  windowName: '',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '7332',
+  idleTime: '0'
+}
+[2022-11-13 23:25:00.100] [info]  {
+  os: 'windows',
+  windowClass: 'notepad.exe',
+  windowName: 'Untitled - Notepad',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '17972',
+  idleTime: '0'
+}
+[2022-11-13 23:25:10.908] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:25:20.107] [info]  {
+  os: 'windows',
+  windowClass: 'notepad.exe',
+  windowName: 'Untitled - Notepad',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '17972',
+  idleTime: '1'
+}
+[2022-11-13 23:28:49.978] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.024] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.078] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.181] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.215] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.223] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.247] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.272] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.298] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.304] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.309] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.468] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.545] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.769] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'Untitled - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.788] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'Untitled - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.796] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'Untitled - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.801] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'Untitled - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.900] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'Untitled - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.941] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'Untitled - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:28:50.953] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'Untitled - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:28:51.975] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:29:00.905] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:29:10.901] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:29:20.913] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:29:30.902] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:29:40.913] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:29:50.907] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:30:00.911] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'watchlist.model.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:30:10.906] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'watchlist.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '2'
+}
+[2022-11-13 23:30:20.911] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'watchlist.component.html - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:30:30.903] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'watchlist.component.html - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:30:40.910] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'watchlist.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:30:50.902] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'watchlist.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:31:00.914] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● watchlist.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:31:10.905] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● watchlist.component.html - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:31:20.907] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:31:30.974] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:31:40.101] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'DevTools',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:31:50.909] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:32:00.897] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:32:10.907] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '4'
+}
+[2022-11-13 23:32:20.896] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '14'
+}
+[2022-11-13 23:32:30.904] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:32:40.906] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:32:50.908] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:33:00.906] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:33:10.906] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '3'
+}
+[2022-11-13 23:33:20.910] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:33:30.904] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:33:40.908] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '1'
+}
+[2022-11-13 23:33:50.896] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:34:00.908] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:34:10.910] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '1'
+}
+[2022-11-13 23:34:20.895] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:34:30.908] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:34:40.906] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:34:50.906] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:35:00.903] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'prodScout - Cloud Firestore - Firebase console - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:35:10.103] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'watchlist.component.html - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:35:20.912] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:35:30.911] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:35:40.902] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:35:50.909] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:36:00.909] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'background.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:36:11.020] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:36:20.910] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:36:30.912] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:36:40.903] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:36:50.905] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:37:00.900] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:37:10.907] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:37:20.902] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:37:30.904] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:37:40.909] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:37:50.894] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:38:00.914] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:38:10.897] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:40:46.878] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '12880',
+  idleTime: '0'
+}
+[2022-11-13 23:40:56.911] [info]  {
+  os: 'windows',
+  windowClass: 'winamp.exe',
+  windowName: '3. Galileo Galilei - Aoi Shiori - Winamp',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '11964',
+  idleTime: '2'
+}
+[2022-11-13 23:41:06.904] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:41:16.902] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:41:26.904] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:41:36.917] [info]  {
+  os: 'windows',
+  windowClass: 'winamp.exe',
+  windowName: '3. Galileo Galilei - Aoi Shiori - Winamp',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '11964',
+  idleTime: '3'
+}
+[2022-11-13 23:41:46.899] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:41:56.898] [info]  {
+  os: 'windows',
+  windowClass: 'winamp.exe',
+  windowName: '3. Galileo Galilei - Aoi Shiori - Winamp',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '11964',
+  idleTime: '0'
+}
+[2022-11-13 23:42:06.910] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:42:16.906] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '2'
+}
+[2022-11-13 23:42:26.871] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '12880',
+  idleTime: '0'
+}
+[2022-11-13 23:42:36.875] [info]  {
+  os: 'windows',
+  windowClass: 'winamp.exe',
+  windowName: '3. Galileo Galilei - Aoi Shiori - Winamp',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '11964',
+  idleTime: '5'
+}
+[2022-11-13 23:42:46.876] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '12880',
+  idleTime: '0'
+}
+[2022-11-13 23:42:56.880] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '12880',
+  idleTime: '6'
+}
+[2022-11-13 23:46:50.907] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '16768',
+  idleTime: '68'
+}
+[2022-11-13 23:47:00.907] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '16768',
+  idleTime: '78'
+}
+[2022-11-13 23:47:10.906] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '16768',
+  idleTime: '88'
+}
+[2022-11-13 23:47:20.897] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '16768',
+  idleTime: '0'
+}
+[2022-11-13 23:47:30.903] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '16768',
+  idleTime: '0'
+}
+[2022-11-13 23:47:40.910] [info]  {
+  os: 'windows',
+  windowClass: 'winamp.exe',
+  windowName: '27. Yui - Again LIVE (Fullmetal Alchemist Opening Song) - Winamp',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '11964',
+  idleTime: '5'
+}
+[2022-11-13 23:47:50.906] [info]  {
+  os: 'windows',
+  windowClass: 'winamp.exe',
+  windowName: '27. Yui - Again LIVE (Fullmetal Alchemist Opening Song) - Winamp',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '11964',
+  idleTime: '15'
+}
+[2022-11-13 23:52:37.905] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'background.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:52:47.899] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'background.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:52:57.904] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'dashboard.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:53:07.909] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'dashboard.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '4'
+}
+[2022-11-13 23:53:17.901] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'dashboard.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '2'
+}
+[2022-11-13 23:53:27.908] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'dashboard.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '12'
+}
+[2022-11-13 23:53:37.900] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'dashboard.component.html - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:53:47.900] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'dashboard.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:53:57.913] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'dashboard.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:54:07.908] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● dashboard.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:54:17.912] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● dashboard.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:54:27.910] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● dashboard.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:54:37.900] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'dashtools.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:54:47.898] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● dashboard.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:54:57.900] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'dashboard.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '1'
+}
+[2022-11-13 23:55:07.914] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'dashboard.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '0'
+}
+[2022-11-13 23:55:17.900] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'dashboard.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '412',
+  idleTime: '9'
+}
+[2022-11-13 23:55:27.840] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '15180',
+  idleTime: '0'
+}
+[2022-11-13 23:55:37.913] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:55:47.907] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:55:57.911] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:56:07.913] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'ProdScout - Parental Monitoring - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '3124',
+  idleTime: '0'
+}
+[2022-11-13 23:56:17.841] [info]  {
+  os: 'windows',
+  windowClass: 'winamp.exe',
+  windowName: 'Winamp 5.63',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14968',
+  idleTime: '0'
+}
+[2022-11-13 23:56:27.858] [info]  {
+  os: 'windows',
+  windowClass: 'winamp.exe',
+  windowName: 'Winamp Playlist Editor',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14968',
+  idleTime: '0'
+}
+[2022-11-17 22:04:45.666] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '99'
+}
+[2022-11-17 22:04:55.661] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '109'
+}
+[2022-11-17 22:05:05.657] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '119'
+}
+[2022-11-17 22:05:15.665] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '129'
+}
+[2022-11-17 22:05:25.662] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '139'
+}
+[2022-11-17 22:05:35.669] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '149'
+}
+[2022-11-17 22:05:45.674] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '159'
+}
+[2022-11-17 22:05:55.663] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '169'
+}
+[2022-11-17 22:06:05.672] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '179'
+}
+[2022-11-17 22:06:15.668] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '189'
+}
+[2022-11-17 22:06:25.664] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '9'
+}
+[2022-11-17 22:06:35.673] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '1'
+}
+[2022-11-17 22:06:45.676] [info]  {
+  os: 'windows',
+  windowClass: 'explorer.exe',
+  windowName: '',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '12520',
+  idleTime: '0'
+}
+[2022-11-17 22:06:55.667] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '12232',
+  idleTime: '0'
+}
+[2022-11-17 22:07:05.668] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.html - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:07:15.672] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.html - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:07:25.673] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.html - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:07:35.668] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.html - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:07:45.679] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.scss - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:07:55.677] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.scss - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:08:05.669] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.html - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:08:15.680] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.html - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:08:26.616] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'New Tab - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14088',
+  idleTime: '0'
+}
+[2022-11-17 22:08:36.609] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.html - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:08:46.609] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.html - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:08:56.617] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'opening a site html - Google Search - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14088',
+  idleTime: '0'
+}
+[2022-11-17 22:09:06.618] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'opening a link html - Google Search - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14088',
+  idleTime: '0'
+}
+[2022-11-17 22:09:16.920] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'New Tab - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14088',
+  idleTime: '0'
+}
+[2022-11-17 22:09:26.612] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.html - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:09:36.614] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.html - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:10:52.757] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:11:02.748] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:11:12.756] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:11:22.762] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:21:48.344] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14812',
+  idleTime: '62'
+}
+[2022-11-17 22:21:58.333] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14812',
+  idleTime: '72'
+}
+[2022-11-17 22:22:08.330] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14812',
+  idleTime: '82'
+}
+[2022-11-17 22:22:18.340] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14812',
+  idleTime: '92'
+}
+[2022-11-17 22:22:28.335] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14812',
+  idleTime: '102'
+}
+[2022-11-17 22:22:38.344] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14812',
+  idleTime: '0'
+}
+[2022-11-17 22:22:48.341] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:22:58.345] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.html - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:23:08.353] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.html - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '3'
+}
+[2022-11-17 22:23:18.345] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.html - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:23:28.351] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.html - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:23:38.344] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.scss - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:23:48.351] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.scss - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:23:58.344] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.scss - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:24:08.341] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.html - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '8'
+}
+[2022-11-17 22:24:18.346] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.html - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:24:53.521] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '16'
+}
+[2022-11-17 22:25:03.516] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '26'
+}
+[2022-11-17 22:25:13.517] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '36'
+}
+[2022-11-17 22:25:23.518] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '46'
+}
+[2022-11-17 22:25:33.519] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '56'
+}
+[2022-11-17 22:25:43.522] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '66'
+}
+[2022-11-17 22:25:53.526] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '76'
+}
+[2022-11-17 22:26:03.524] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '86'
+}
+[2022-11-17 22:26:13.518] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '96'
+}
+[2022-11-17 22:26:23.518] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '106'
+}
+[2022-11-17 22:26:33.531] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '116'
+}
+[2022-11-17 22:26:43.528] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '126'
+}
+[2022-11-17 22:26:53.530] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '136'
+}
+[2022-11-17 22:27:03.527] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '146'
+}
+[2022-11-17 22:27:13.529] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '156'
+}
+[2022-11-17 22:27:23.523] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '166'
+}
+[2022-11-17 22:27:33.533] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '176'
+}
+[2022-11-17 22:27:43.532] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '186'
+}
+[2022-11-17 22:27:53.527] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '196'
+}
+[2022-11-17 22:28:03.532] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '206'
+}
+[2022-11-17 22:28:13.532] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '216'
+}
+[2022-11-17 22:28:23.529] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '226'
+}
+[2022-11-17 22:28:33.518] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '236'
+}
+[2022-11-17 22:28:43.521] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '246'
+}
+[2022-11-17 22:28:53.529] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '256'
+}
+[2022-11-17 22:29:03.522] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '266'
+}
+[2022-11-17 22:29:13.525] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '276'
+}
+[2022-11-17 22:29:23.526] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '286'
+}
+[2022-11-17 22:29:33.530] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '296'
+}
+[2022-11-17 22:29:43.520] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '306'
+}
+[2022-11-17 22:29:53.523] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '316'
+}
+[2022-11-17 22:30:03.525] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '326'
+}
+[2022-11-17 22:30:13.525] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '336'
+}
+[2022-11-17 22:30:23.526] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '346'
+}
+[2022-11-17 22:30:33.525] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '356'
+}
+[2022-11-17 22:30:43.528] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '366'
+}
+[2022-11-17 22:30:53.526] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '376'
+}
+[2022-11-17 22:31:03.531] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '2'
+}
+[2022-11-17 22:31:13.524] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '12'
+}
+[2022-11-17 22:31:23.529] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '22'
+}
+[2022-11-17 22:31:33.526] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '32'
+}
+[2022-11-17 22:31:43.522] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '0'
+}
+[2022-11-17 22:31:53.526] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '1'
+}
+[2022-11-17 22:32:03.530] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '9016',
+  idleTime: '0'
+}
+[2022-11-17 22:32:13.526] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '4'
+}
+[2022-11-17 22:32:23.530] [info]  {
+  os: 'windows',
+  windowClass: 'ShellExperienceHost.exe',
+  windowName: 'Jump List for Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '17464',
+  idleTime: '0'
+}
+[2022-11-17 22:32:33.532] [info]  {
+  os: 'windows',
+  windowClass: 'ShellExperienceHost.exe',
+  windowName: 'Jump List for Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '17464',
+  idleTime: '0'
+}
+[2022-11-17 22:32:43.532] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'register.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:32:53.527] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:33:03.523] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '2'
+}
+[2022-11-17 22:33:13.671] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'New Tab - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14088',
+  idleTime: '1'
+}
+[2022-11-17 22:33:23.619] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'Inbox (7,683) - carlangelo.arrogante@gmail.com - Gmail - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14088',
+  idleTime: '11'
+}
+[2022-11-17 22:33:33.610] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'Inbox (7,683) - carlangelo.arrogante@gmail.com - Gmail - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14088',
+  idleTime: '0'
+}
+[2022-11-17 22:33:43.605] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '1'
+}
+[2022-11-17 22:33:53.616] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:34:03.613] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:34:13.617] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:34:23.603] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'users.model.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:34:33.609] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'main.js - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:34:43.604] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:34:53.635] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:35:03.611] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'register.component.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:35:13.606] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'background.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:35:23.612] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'background.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '4'
+}
+[2022-11-17 22:35:33.604] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'background.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '14'
+}
+[2022-11-17 22:35:43.613] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:35:53.612] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:36:03.614] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:36:13.610] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:36:23.612] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:36:33.604] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '1'
+}
+[2022-11-17 22:36:43.605] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '8'
+}
+[2022-11-17 22:36:53.613] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:37:03.611] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:37:13.606] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:37:23.606] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:37:33.609] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '2'
+}
+[2022-11-17 22:37:43.606] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '1'
+}
+[2022-11-17 22:37:53.607] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:38:03.522] [info]  {
+  os: 'windows',
+  windowClass: 'explorer.exe',
+  windowName: '',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '12520',
+  idleTime: '0'
+}
+[2022-11-17 22:38:13.609] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:38:23.610] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:38:33.618] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:38:43.605] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:38:53.605] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '4'
+}
+[2022-11-17 22:39:03.608] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:39:13.615] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '2'
+}
+[2022-11-17 22:39:23.610] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'background.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:39:33.532] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:39:43.532] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:39:53.522] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '1'
+}
+[2022-11-17 22:40:03.531] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '2'
+}
+[2022-11-17 22:40:13.531] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '12'
+}
+[2022-11-17 22:40:23.529] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '22'
+}
+[2022-11-17 22:40:33.534] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '32'
+}
+[2022-11-17 22:40:43.531] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '42'
+}
+[2022-11-17 22:40:53.522] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '8'
+}
+[2022-11-17 22:41:03.529] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '18'
+}
+[2022-11-17 22:41:13.520] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '28'
+}
+[2022-11-17 22:41:23.529] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '38'
+}
+[2022-11-17 22:41:33.525] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '48'
+}
+[2022-11-17 22:41:43.529] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '58'
+}
+[2022-11-17 22:41:53.519] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:42:03.524] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:42:13.528] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:42:23.527] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '2'
+}
+[2022-11-17 22:42:33.606] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'background.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:42:43.606] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'background.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:42:53.618] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:43:03.605] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:43:13.610] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'background.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:43:23.617] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:43:33.612] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '1'
+}
+[2022-11-17 22:43:43.616] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '1'
+}
+[2022-11-17 22:43:53.607] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '1'
+}
+[2022-11-17 22:44:03.613] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:44:13.610] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '10'
+}
+[2022-11-17 22:44:23.614] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:44:33.614] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:44:43.613] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'background.ts - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:44:53.605] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:45:03.602] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '1'
+}
+[2022-11-17 22:45:13.617] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:45:23.613] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:45:33.616] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:45:43.615] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:45:53.608] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:46:03.614] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:46:13.617] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:46:23.607] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '8'
+}
+[2022-11-17 22:46:33.604] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '18'
+}
+[2022-11-17 22:46:43.613] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:46:53.619] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:48:33.618] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '90'
+}
+[2022-11-17 22:48:43.602] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:48:53.296] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '17892',
+  idleTime: '0'
+}
+[2022-11-17 22:49:03.288] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '17892',
+  idleTime: '0'
+}
+[2022-11-17 22:49:13.292] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '17892',
+  idleTime: '0'
+}
+[2022-11-17 22:49:23.608] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:49:33.288] [info]  {
+  os: 'windows',
+  windowClass: 'explorer.exe',
+  windowName: 'Task Switching',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '12520',
+  idleTime: '0'
+}
+[2022-11-17 22:49:43.301] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '17892',
+  idleTime: '0'
+}
+[2022-11-17 22:49:53.295] [info]  {
+  os: 'windows',
+  windowClass: 'explorer.exe',
+  windowName: '',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '12520',
+  idleTime: '0'
+}
+[2022-11-17 22:50:03.288] [info]  {
+  os: 'windows',
+  windowClass: 'winamp.exe',
+  windowName: 'Winamp 5.63',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '16468',
+  idleTime: '0'
+}
+[2022-11-17 22:50:13.295] [info]  {
+  os: 'windows',
+  windowClass: 'winamp.exe',
+  windowName: 'Winamp 5.63',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '16468',
+  idleTime: '0'
+}
+[2022-11-17 22:50:23.609] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'Inbox (7,683) - carlangelo.arrogante@gmail.com - Gmail - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14088',
+  idleTime: '0'
+}
+[2022-11-17 22:50:33.673] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'prodScout - Cloud Firestore - Firebase console - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14088',
+  idleTime: '0'
+}
+[2022-11-17 22:50:43.616] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'prodScout - Cloud Firestore - Firebase console - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14088',
+  idleTime: '0'
+}
+[2022-11-17 22:50:53.616] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'prodScout - Cloud Firestore - Firebase console - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14088',
+  idleTime: '0'
+}
+[2022-11-17 22:51:03.619] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'prodScout - Cloud Firestore - Firebase console - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14088',
+  idleTime: '0'
+}
+[2022-11-17 22:51:13.618] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'prodScout - Cloud Firestore - Firebase console - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14088',
+  idleTime: '0'
+}
+[2022-11-17 22:51:23.300] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '17892',
+  idleTime: '0'
+}
+[2022-11-17 22:51:33.299] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '17892',
+  idleTime: '6'
+}
+[2022-11-17 22:51:43.293] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '17892',
+  idleTime: '1'
+}
+[2022-11-17 22:51:53.287] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '17892',
+  idleTime: '0'
+}
+[2022-11-17 22:52:03.299] [info]  {
+  os: 'windows',
+  windowClass: 'winamp.exe',
+  windowName: 'Winamp 5.63',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '16468',
+  idleTime: '0'
+}
+[2022-11-17 22:52:13.297] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '17892',
+  idleTime: '0'
+}
+[2022-11-17 22:52:23.291] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '17892',
+  idleTime: '10'
+}
+[2022-11-17 22:52:33.298] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '17892',
+  idleTime: '7'
+}
+[2022-11-17 22:52:43.605] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'Inbox (7,683) - carlangelo.arrogante@gmail.com - Gmail - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14088',
+  idleTime: '0'
+}
+[2022-11-17 22:52:53.619] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '1'
+}
+[2022-11-17 22:53:03.605] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '7'
+}
+[2022-11-17 22:53:13.607] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '1'
+}
+[2022-11-17 22:53:23.610] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '3'
+}
+[2022-11-17 22:53:33.617] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '13'
+}
+[2022-11-17 22:53:43.302] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '17892',
+  idleTime: '0'
+}
+[2022-11-17 22:53:53.607] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:54:03.603] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:54:13.615] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:54:23.607] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:54:33.600] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:54:43.610] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: '● login.component.ts - prodscout-desktop - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}
+[2022-11-17 22:56:03.560] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14996',
+  idleTime: '2'
+}
+[2022-11-17 22:56:13.551] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14996',
+  idleTime: '12'
+}
+[2022-11-17 22:56:23.562] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14996',
+  idleTime: '22'
+}
+[2022-11-17 22:56:33.562] [info]  {
+  os: 'windows',
+  windowClass: '��\x1F�s',
+  windowName: '',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '0',
+  idleTime: '0'
+}
+[2022-11-17 22:56:43.560] [info]  {
+  os: 'windows',
+  windowClass: 'winamp.exe',
+  windowName: 'Winamp 5.63',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '16468',
+  idleTime: '0'
+}
+[2022-11-17 22:56:53.573] [info]  {
+  os: 'windows',
+  windowClass: 'winamp.exe',
+  windowName: 'Winamp 5.63',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '16468',
+  idleTime: '5'
+}
+[2022-11-17 22:57:03.573] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14996',
+  idleTime: '1'
+}
+[2022-11-17 22:57:13.567] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14996',
+  idleTime: '11'
+}
+[2022-11-17 22:57:23.572] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14996',
+  idleTime: '0'
+}
+[2022-11-17 22:59:58.426] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '5928',
+  idleTime: '1'
+}
+[2022-11-17 23:00:08.449] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '5928',
+  idleTime: '2'
+}
+[2022-11-17 23:00:18.434] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '5928',
+  idleTime: '0'
+}
+[2022-11-17 23:00:28.439] [info]  {
+  os: 'windows',
+  windowClass: 'winamp.exe',
+  windowName: 'Winamp 5.63',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '16468',
+  idleTime: '0'
+}
+[2022-11-17 23:00:38.433] [info]  {
+  os: 'windows',
+  windowClass: 'winamp.exe',
+  windowName: 'Winamp 5.63',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '16468',
+  idleTime: '10'
+}
+[2022-11-17 23:01:39.303] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '5928',
+  idleTime: '0'
+}
+[2022-11-17 23:01:39.311] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '5928',
+  idleTime: '0'
+}
+[2022-11-17 23:01:39.324] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '5928',
+  idleTime: '0'
+}
+[2022-11-17 23:01:39.347] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '5928',
+  idleTime: '0'
+}
+[2022-11-17 23:01:39.356] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '5928',
+  idleTime: '0'
+}
+[2022-11-17 23:01:39.364] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '5928',
+  idleTime: '0'
+}
+[2022-11-17 23:01:48.434] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '5928',
+  idleTime: '0'
+}
+[2022-11-17 23:01:58.610] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'Scout Alert - Suspicious Desktop Activity - carlangelo.arrogante@gmail.com - Gmail - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14088',
+  idleTime: '0'
+}
+[2022-11-17 23:02:08.617] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'Scout Alert - Suspicious Desktop Activity - carlangelo.arrogante@gmail.com - Gmail - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14088',
+  idleTime: '0'
+}
+[2022-11-17 23:02:18.614] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'Scout Alert - Suspicious Desktop Activity - carlangelo.arrogante@gmail.com - Gmail - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14088',
+  idleTime: '0'
+}
+[2022-11-17 23:02:28.614] [info]  {
+  os: 'windows',
+  windowClass: 'chrome.exe',
+  windowName: 'prodScout - Cloud Firestore - Firebase console - Google Chrome',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '14088',
+  idleTime: '0'
+}
+[2022-11-17 23:02:38.432] [info]  {
+  os: 'windows',
+  windowClass: 'electron.exe',
+  windowName: 'Deskty',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '5928',
+  idleTime: '0'
+}
+[2022-11-17 23:02:48.618] [info]  {
+  os: 'windows',
+  windowClass: 'Code.exe',
+  windowName: 'dashtools.component.html - iguard-1 - Visual Studio Code',
+  windowDesktop: '0',
+  windowType: '0',
+  windowPid: '8180',
+  idleTime: '0'
+}

@@ -62,6 +62,10 @@ function showNotif() {
   new Notification({title: notif_title, body: notif_body}).show()
 }
 
+//openLinks 
+ipcMain.on('browser', ()=> {
+  shell.openExternal('https://prodscout.vercel.app/#/home')
+})
 // Create Local Logs
 log.transports.file.level = 'logs';
 log.transports.file.resolvePath = () => path.join(__dirname, 'logs/eventLog.log');
@@ -69,7 +73,7 @@ log.transports.file.resolvePath = () => path.join(__dirname, 'logs/eventLog.log'
 // Sends Warning thru System Dialog
 
 ipcMain.on("warn", () => {
-  //dialog.showErrorBox('Ooops!', 'It seems this is not that the time to be launching this app, please focus on your activities and studies')
+  dialog.showErrorBox('Ooops!', 'It seems this is not that the time to be launching this app, please focus on your activities and studies')
   shell.openExternal('https://prodscout.vercel.app/#/blocked')
 })
 // Check running Windows

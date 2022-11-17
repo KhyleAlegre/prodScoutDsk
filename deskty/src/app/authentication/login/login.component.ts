@@ -14,6 +14,7 @@ import {
 import { profileModels } from 'src/app/models/profile.model';
 import { ssModel } from 'src/app/models/screenshot.model';
 import { watchlistModel } from 'src/app/models/watchlist.model';
+import { userModel } from 'src/app/models/users.model';
 
 @Component({
   selector: 'app-login',
@@ -37,6 +38,9 @@ export class LoginComponent implements OnInit {
 
   private watchlistCollection!: AngularFirestoreCollection<watchlistModel>;
   wls!: Observable<watchlistModel[]>;
+
+  private userCollection!: AngularFirestoreCollection<userModel>;
+  users!: Observable<userModel[]>;
 
   profileId: any;
   username: any;
@@ -63,6 +67,12 @@ export class LoginComponent implements OnInit {
   convertBlob: any;
   watchList!: watchlistModel[];
   sessionTimeStamp: any;
+  strictMode: boolean = true;
+  holidayMode: boolean = false;
+  email: any;
+  contactNo: any;
+  profileUsername: any;
+  userList!: userModel[];
 
   ngOnInit(): void {
     this.profileCollection = this.afs.collection('profiles');
@@ -78,6 +88,7 @@ export class LoginComponent implements OnInit {
       this.checkNudge();
       this.checkSS();
       this.getWatchlist();
+      this.getUser();
       // Gets Window Events
       this.ipcService.on('appLogs', (event: any, arg: string) => {
         this.appLogs = arg;
@@ -94,43 +105,66 @@ export class LoginComponent implements OnInit {
           profileName: this.loggedProfileId,
           userName: this.loggedUsername,
         });
+        if (this.strictMode == true) {
+          // Comparet to watchlist
+          for (let i = 0; i < this.watchList.length; i++) {
+            if (this.appLogs.windowClass == this.watchList[i].applicationName) {
+              setTimeout(() => {
+                this.getScreenshot();
 
-        // Comparet to watchlist
-        for (let i = 0; i < this.watchList.length; i++) {
-          if (this.appLogs.windowClass == this.watchList[i].applicationName) {
-            setTimeout(() => {
-              this.getScreenshot();
+                this.galleryLogDate = new Date();
+                this.afs.collection('gallery').add({
+                  ssUrl: this.ssUrl,
+                  profileId: this.loggedProfileId,
+                  userName: this.loggedUsername,
+                  logDate: this.galleryLogDate,
+                });
 
-              this.galleryLogDate = new Date();
-              this.afs.collection('gallery').add({
-                ssUrl: this.ssUrl,
+                this.ipcService.send('warn', 'warning');
+              }, 500);
+              this.sessionTimeStamp = new Date();
+              this.afs.collection('sessions').add({
+                deviceType: 'Desktop',
+                sessionMode: 'Launched ' + this.appLogs.windowClass,
+                sessionStatus: true,
+                photoUrl: this.ssUrl,
+                sessiongLogDate: this.sessionTimeStamp,
+                displaySessionDate: this.sessionTimeStamp.toLocaleDateString(),
+                displaySessionTime:
+                  this.sessionTimeStamp.toLocaleTimeString('en-US'),
                 profileId: this.loggedProfileId,
-                userName: this.loggedUsername,
-                logDate: this.galleryLogDate,
+                profileType: 'Regular',
+                violationLevel: 'Launched an application from the watchlist',
+                screenShotTrigger: '',
+                profileStatus: 'Active',
+                profilePassword: 'N/A',
+                username: this.loggedUsername,
               });
 
-              this.ipcService.send('warn', 'warning');
-            }, 500);
-            this.sessionTimeStamp = new Date();
-            this.afs.collection('sessions').add({
-              deviceType: 'Desktop',
-              sessionMode: 'Launched ' + this.appLogs.windowClass,
-              sessionStatus: true,
-              photoUrl: this.ssUrl,
-              sessiongLogDate: this.sessionTimeStamp,
-              displaySessionDate: this.sessionTimeStamp.toLocaleDateString(),
-              displaySessionTime:
-                this.sessionTimeStamp.toLocaleTimeString('en-US'),
-              profileId: this.loggedProfileId,
-              profileType: 'Regular',
-              violationLevel: 'Launched an application from the watchlist',
-              screenShotTrigger: '',
-              profileStatus: 'Active',
-              profilePassword: 'N/A',
-              username: this.loggedUsername,
-            });
+              // Send Email
+              console.log('Email', this.email, this.loggedProfileId);
+              this.afs.collection('mail').add({
+                to: this.email,
+                message: {
+                  subject: 'Scout Alert - Suspicious Desktop Activity',
+                  html:
+                    'Our scouts have noticed an unusual activity from ' +
+                    this.loggedProfileId +
+                    ', We have logged this activity and saved a screenshot. log to the app to check',
+                },
+              });
+
+              // Send SMS
+              console.log('SMS', this.contactNo, this.loggedProfileId);
+              this.afs.collection('messages').add({
+                to: this.contactNo,
+                body:
+                  this.loggedProfileId +
+                  ' has accessed a desktop application from your watchlist, log to the app to check',
+              });
+            }
+            return;
           }
-          return;
         }
 
         this.cdRef.detectChanges();
@@ -214,9 +248,26 @@ export class LoginComponent implements OnInit {
     this.logprofiles.subscribe(
       (data) => (
         (this.logprofileList = data),
-        console.log(this.logprofileList),
         (this.nudgeRequest = this.logprofileList[0].nudge),
-        (this.ssRequest = this.logprofileList[0].ssrequest)
+        (this.ssRequest = this.logprofileList[0].ssrequest),
+        (this.strictMode = this.logprofileList[0].strictMode),
+        (this.holidayMode = this.logprofileList[0].holidayMode),
+        (this.profileUsername = this.logprofileList[0].username)
+      )
+    );
+  }
+
+  getUser() {
+    this.userCollection = this.afs.collection('users', (ref) =>
+      ref.where('username', '==', this.profileUsername)
+    );
+
+    this.users = this.userCollection.valueChanges();
+    this.users.subscribe(
+      (data) => (
+        (this.userList = data),
+        (this.contactNo = this.userList[0].contactNo),
+        (this.email = this.userList[0].email)
       )
     );
   }
@@ -231,8 +282,6 @@ export class LoginComponent implements OnInit {
   checkSS() {
     if (this.ssRequest == true) {
       this.getScreenshot();
-      console.log('ready to upload', this.ssUrl);
-
       this.galleryLogDate = new Date();
       this.afs.collection('gallery').add({
         ssUrl: this.ssUrl,
@@ -251,6 +300,10 @@ export class LoginComponent implements OnInit {
       //console.log(this.ssUrl);
       this.cdRef.detectChanges();
     });
+  }
+
+  openSite() {
+    this.ipcService.send('browser', 'openBrowser');
   }
 
   addToGallery() {

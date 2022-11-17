@@ -30,6 +30,14 @@
     }
   }
 
+  .subLinks {
+    font-size: 16px;
+    text-align: center;
+    .subLabel {
+      cursor: pointer;
+    }
+  }
+
   .footerContainer {
     text-align: center;
     margin-top: 10px;
