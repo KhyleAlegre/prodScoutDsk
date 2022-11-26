@@ -105,78 +105,74 @@ export class LoginComponent implements OnInit {
           profileName: this.loggedProfileId,
           userName: this.loggedUsername,
         });
-        if (this.strictMode == true) {
-          // Comparet to watchlist
-          for (let i = 0; i < this.watchList.length; i++) {
-            if (this.appLogs.windowClass == this.watchList[i].applicationName) {
-              setTimeout(() => {
-                this.getScreenshot();
-
-                this.galleryLogDate = new Date();
-                this.afs.collection('gallery').add({
-                  ssUrl: this.ssUrl,
-                  profileId: this.loggedProfileId,
-                  userName: this.loggedUsername,
-                  logDate: this.galleryLogDate,
-                });
-
-                this.ipcService.send('warn', 'warning');
-              }, 500);
-              this.sessionTimeStamp = new Date();
-              this.afs.collection('sessions').add({
-                deviceType: 'Desktop',
-                sessionMode: 'Launched ' + this.appLogs.windowClass,
-                sessionStatus: true,
-                photoUrl: this.ssUrl,
-                sessiongLogDate: this.sessionTimeStamp,
-                displaySessionDate: this.sessionTimeStamp.toLocaleDateString(),
-                displaySessionTime:
-                  this.sessionTimeStamp.toLocaleTimeString('en-US'),
+        console.log('stop 1');
+        // Comparet to watchlist
+        for (let i = 0; i < this.watchList.length; i++) {
+          if (this.appLogs.windowClass == this.watchList[i].applicationName) {
+            console.log(
+              this.appLogs.windowClass,
+              this.watchList[i].applicationName
+            );
+            setTimeout(() => {
+              console.log('went here');
+              this.getScreenshot();
+              this.galleryLogDate = new Date();
+              this.afs.collection('gallery').add({
+                ssUrl: this.ssUrl,
                 profileId: this.loggedProfileId,
-                profileType: 'Regular',
-                violationLevel: 'Launched an application from the watchlist',
-                screenShotTrigger: '',
-                profileStatus: 'Active',
-                profilePassword: 'N/A',
-                username: this.loggedUsername,
+                userName: this.loggedUsername,
+                logDate: this.galleryLogDate,
               });
 
-              // Send Email
-              console.log('Email', this.email, this.loggedProfileId);
-              this.afs.collection('mail').add({
-                to: this.email,
-                message: {
-                  subject: 'Scout Alert - Suspicious Desktop Activity',
-                  html:
-                    'Our scouts have noticed an unusual activity from ' +
-                    this.loggedProfileId +
-                    ', We have logged this activity and saved a screenshot. log to the app to check',
-                },
-              });
+              this.ipcService.send('warn', 'warning');
+            }, 500);
+            console.log('fire here');
+            this.sessionTimeStamp = new Date();
+            this.afs.collection('sessions').add({
+              deviceType: 'Desktop',
+              sessionMode: 'Launched ' + this.appLogs.windowClass,
+              sessionStatus: true,
+              photoUrl: this.ssUrl,
+              sessiongLogDate: this.sessionTimeStamp,
+              displaySessionDate: this.sessionTimeStamp.toLocaleDateString(),
+              displaySessionTime:
+                this.sessionTimeStamp.toLocaleTimeString('en-US'),
+              profileId: this.loggedProfileId,
+              profileType: 'Regular',
+              violationLevel: 'Launched an application from the watchlist',
+              screenShotTrigger: '',
+              profileStatus: 'Active',
+              profilePassword: 'N/A',
+              username: this.loggedUsername,
+            });
 
-              // Send SMS
-              console.log('SMS', this.contactNo, this.loggedProfileId);
-              this.afs.collection('messages').add({
-                to: this.contactNo,
-                body:
+            // Send Email
+            console.log('Email', this.email, this.loggedProfileId);
+            this.afs.collection('mail').add({
+              to: this.email,
+              message: {
+                subject: 'Scout Alert - Suspicious Desktop Activity',
+                html:
+                  'Our scouts have noticed an unusual activity from ' +
                   this.loggedProfileId +
-                  ' has accessed a desktop application from your watchlist, log to the app to check',
-              });
-            }
-            return;
+                  ', We have logged this activity and saved a screenshot. log to the app to check',
+              },
+            });
+
+            // Send SMS
+            console.log('SMS', this.contactNo, this.loggedProfileId);
+            this.afs.collection('messages').add({
+              to: this.contactNo,
+              body:
+                this.loggedProfileId +
+                ' has accessed a desktop application from your watchlist, log to the app to check',
+            });
           }
         }
 
         this.cdRef.detectChanges();
       });
-    }, 10000);
-
-    // setInterval(() => {
-    //  this.getProfile();
-    //  this.checkNudge();
-    //  this.checkSS();
-    //   this.getWatchlist();
-    // }, 3000);
+    }, 3000);
   }
 
   login() {

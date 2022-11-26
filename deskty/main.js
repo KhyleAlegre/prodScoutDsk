@@ -73,8 +73,8 @@ log.transports.file.resolvePath = () => path.join(__dirname, 'logs/eventLog.log'
 // Sends Warning thru System Dialog
 
 ipcMain.on("warn", () => {
-  dialog.showErrorBox('Ooops!', 'It seems this is not that the time to be launching this app, please focus on your activities and studies')
-  shell.openExternal('https://prodscout.vercel.app/#/blocked')
+  return dialog.showErrorBox('Ooops!', 'It seems this is not that the time to be launching this app, please focus on your activities and studies')
+
 })
 // Check running Windows
 ipcMain.on("check", () =>{
